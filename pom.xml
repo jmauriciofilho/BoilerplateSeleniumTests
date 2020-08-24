@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>br.ce.jmauriciof</groupId>
-    <artifactId>ProjetoBasicoSelenium</artifactId>
+    <artifactId>BoilerplateSeleniumTests</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
